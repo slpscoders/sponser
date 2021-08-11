@@ -1,0 +1,139 @@
+.internet{
+    height:1000px;
+    background: linear-gradient(to top right, #0000ff 0%, #ffccff 70%  );
+}
+.yi{
+    height: 1500px;
+    background: linear-gradient(to top right, #00cc99 0%, #cc0099 100%);
+}
+.ti{
+    height: 1500px;
+    background:  linear-gradient(to top right, #e3e700 0%, #41aeec 100%);
+}
+.vi{
+    height: 1500px;
+    background: linear-gradient(to top right, #b7b6ff 0%, #ee270d 100%);
+}
+.fi{
+    height: 1500px;
+    background: linear-gradient(to top right, #7e06c4 0%, #fff130b4 100%);
+}
+button {
+    font-size: 40px;
+    background: none;
+    padding: 10px 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   cursor: pointer;
+   margin: 10;
+   color: azure;
+   position: relative;
+   transition: 1s;
+    border: 0px;
+}
+button:hover{
+    box-shadow: 0 0 5px #00eeff,
+    0 0 25px #00eeff,
+    0 0 50px #00eeff,
+    0 0 200px #00eeff;
+    background-color: rgb(9, 255, 0);
+    
+
+
+
+    
+}
+h1{
+    font-size:  40px;
+    
+}
+p{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+h3{
+    font-size:  40px;
+    
+}
+li{
+    list-style: none;
+    color: rgb(83, 206, 255);
+    font-size: 30px;
+}
+h4{
+    color: rgb(93, 0, 168);
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.op:hover{
+    box-shadow: 0 0 5px #01ffc8,
+    0 0 25px #01ffc8,
+    0 0 50px #01ffc8,
+    0 0 200px #01ffc8;
+}
+.jo:hover{
+    
+    box-shadow: 0 0 5px #01fc61,
+    0 0 25px #01fc61,
+    0 0 50px #01fc61,
+    0 0 200px #01fc61;
+}
+.jck:hover{
+    
+    box-shadow: 0 0 5px #fffb01,
+    0 0 25px #fffb01,
+    0 0 50px #fffb01,
+    0 0 200px #fffb01;
+}
+.home:hover{
+    
+    box-shadow: 0 0 5px #ffffff,
+    0 0 25px #ffffff,
+    0 0 50px #ffffff,
+    0 0 200px #ffffff;
+}
+.l{
+    text-decoration: 0mm underline; 
+   font-size: 50px;
+   margin-top: 50px;
+   padding: 50px;
+   transition: 0.5s;
+   padding: 30px;
+   margin-top: 50px;
+
+}
+.l:hover{
+    text-decoration: underline coral;
+}
+.like{
+    text-decoration: 0mm underline;
+    font-size: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    transition: 0.5s;
+    padding: 30px;
+    margin-top: 50px;
+    
+ 
+ }
+ .like:hover{
+     text-decoration: underline coral;
+ }
+ .t{
+    text-decoration: 0mm underline;
+    font-size: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    transition: 0.5s;
+    padding: 30px;
+    margin-top: 50px;
+
+ 
+ }
+ .t:hover{
+     text-decoration: underline coral;
+     
+ }   
+
+
+
